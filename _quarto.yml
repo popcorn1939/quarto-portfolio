@@ -4,9 +4,11 @@ project:
 
 website:
   title: "my-quarto-gitpage"
+  favicon: "favicon.png"
   navbar:
-    left:
+    right:
       - href: index.qmd
+        icon: house
         text: Home
       - about.qmd
 
