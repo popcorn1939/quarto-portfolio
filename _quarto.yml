@@ -11,10 +11,23 @@ website:
         icon: house
         text: Home
       - about.qmd
+      - text: "Cheat-Sheets"
+        menu:
+          - text: "Quarto-CLI"
+            href: menus/cheat-sheets/quarto-cli.qmd
+          - text: "python"
+            href: menus/cheat-sheets/python.qmd
+          - text: "unix"
+            href: menus/cheat-sheets/unix.qmd
+          - text: "HTML"
+            href: menus/cheat-sheets/html.qmd
+
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: lightcosmo
+      dark: darkly 
     css: styles.css
     toc: true
 

@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "menus/cheat-sheets/html.html",
+    "href": "menus/cheat-sheets/html.html",
+    "title": "HTML",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "menus/cheat-sheets/python.html",
+    "href": "menus/cheat-sheets/python.html",
+    "title": "python",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -12,5 +26,19 @@
     "title": "my-quarto-gitpage",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "menus/cheat-sheets/quarto-cli.html",
+    "href": "menus/cheat-sheets/quarto-cli.html",
+    "title": "quarto-cli",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "menus/cheat-sheets/unix.html",
+    "href": "menus/cheat-sheets/unix.html",
+    "title": "unix",
+    "section": "",
+    "text": "About this site"
   }
 ]
